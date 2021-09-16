@@ -50,6 +50,11 @@ Temporary Items
 
 # Visual Studio
 .vs
+bin
+obj
 
 # Private Settings
 appsettings.Development.json
+appsettings.Production.json
+PublishProfiles
+profile.arm.json

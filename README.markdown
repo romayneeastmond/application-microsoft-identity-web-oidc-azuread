@@ -8,7 +8,7 @@ This project requires the settings of a provisioned Azure AD tenant. Configure t
 
 ## How to Use
 
-Restore any necessary NuGet packages before building or deploying. Ensure that the settings in the appsettings.json are changed to point to match the settings of a provisioned Azure AD tenant. 
+Restore any necessary NuGet packages before building or deploying. Ensure that the settings in the appsettings.json are changed to match the settings of a provisioned Azure AD tenant. 
 
 Build and run to start the MVC application on the default binding of https://localhost:44321
 
